@@ -1,0 +1,18 @@
+.sidebar-container {
+  background-color: none;
+}
+.category-name1 {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  padding-bottom: 25px;
+  color: rgb(80, 112, 160);
+  list-style-type: none;
+  border: none;
+  background-color: transparent;
+}
+@media screen and (max-width: 568px) {
+  .category-name1 {
+    font-size: 14px;
+  }
+}
